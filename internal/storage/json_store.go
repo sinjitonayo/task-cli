@@ -5,7 +5,7 @@ import (
 	"errors"
 	"os"
 
-	"github.com/sinjito/task-cli-go/internal/model"
+	"github.com/sinjitonayo/task-cli-go/internal/model"
 )
 
 const DefaultFileName = "tasks.json"
